@@ -22,7 +22,7 @@
 ### 1. リポジトリのクローン
 
 ```bash
-git clone <リポジトリURL>
+git clone https://github.com/kenji-kimura1995/mono
 cd mono
 ```
 
