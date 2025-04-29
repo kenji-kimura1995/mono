@@ -55,7 +55,9 @@ npm run dev
 
 ### フォルダ構成
 
+```plaintext
 mono/
-├── mono-back/   # バックエンドAPI (Quarkus)
-├── mono-front/  # フロントエンドアプリ (SvelteKit)
+├── mono-back/ # バックエンドAPI（Quarkus）
+├── mono-front/ # フロントエンドアプリ（SvelteKit）
 └── README.md
+```
