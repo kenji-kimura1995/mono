@@ -1,0 +1,10 @@
+INSERT INTO users (name, address) VALUES ('山田 太郎', '東京都渋谷区');
+INSERT INTO users (name, address) VALUES ('佐藤 花子', '大阪市北区');
+INSERT INTO users (name, address) VALUES ('田中 一郎', '福岡市中央区');
+INSERT INTO users (name, address) VALUES ('鈴木 次郎', '名古屋市中区');
+INSERT INTO users (name, address) VALUES ('高橋 三郎', '札幌市中央区');
+INSERT INTO users (name, address) VALUES ('伊藤 美咲', '横浜市西区');
+INSERT INTO users (name, address) VALUES ('渡辺 健', '京都市左京区');
+INSERT INTO users (name, address) VALUES ('中村 直樹', '神戸市中央区');
+INSERT INTO users (name, address) VALUES ('小林 優子', 'さいたま市大宮区');
+INSERT INTO users (name, address) VALUES ('加藤 勇', '広島市中区');

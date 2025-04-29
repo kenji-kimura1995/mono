@@ -1,0 +1,7 @@
+CREATE SEQUENCE users_SEQ INCREMENT BY 1 START 1;
+
+CREATE TABLE users (
+    id BIGINT PRIMARY KEY DEFAULT nextval('users_SEQ'),
+    name VARCHAR(255) NOT NULL,
+    address VARCHAR(255) NOT NULL
+);
